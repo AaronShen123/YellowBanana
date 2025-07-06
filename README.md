@@ -2,3 +2,4 @@
 ## List
 * Aaron
 * Simon 
+* Kalen Tong
